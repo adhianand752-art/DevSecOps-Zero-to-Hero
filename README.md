@@ -1,11 +1,4 @@
-#Fan
-#first com
-#sec com
-#Hi Adhi, Welcome to devopsssssssssssss
-=======
-#Hi Adhi, Welcome to devopssssssssssss999999999s
-#Welcome to this
-#Adhi
+#new
 # DevSecOps-Zero-to-Hero
 
 ## Day 1: The Mindset Shift & Threat Modeling
