@@ -1,4 +1,4 @@
-#Hi Adhi, Welcome to devops
+#Adhi
 # DevSecOps-Zero-to-Hero
 
 ## Day 1: The Mindset Shift & Threat Modeling
