@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #neww
+=======
+#old
+
+>>>>>>> 437a8d7 (1)
 # DevSecOps-Zero-to-Hero
 
 ## Day 1: The Mindset Shift & Threat Modeling
