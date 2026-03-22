@@ -1,4 +1,4 @@
-#Adhiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+#Adhi
 
 # DevSecOps-Zero-to-Hero
 
