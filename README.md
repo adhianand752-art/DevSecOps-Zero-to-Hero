@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 #first com
 #sec com
 #Hi Adhi, Welcome to devopsssssssssssss
+=======
+#Hi Adhi, Welcome to devopssssssssssss999999999s
+>>>>>>> 670784a0f046cef4d9ef7b2e5c61b5c9602090c4
 #Welcome to this
 #Adhi
 # DevSecOps-Zero-to-Hero
